@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nimish710/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Nimish710/leetcode-solutions/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Nimish710/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1051-height-checker](https://github.com/Nimish710/leetcode-solutions/tree/master/1051-height-checker) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nimish710/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nimish710/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Nimish710/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
