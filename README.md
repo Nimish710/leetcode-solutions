@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nimish710/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0443-string-compression](https://github.com/Nimish710/leetcode-solutions/tree/master/0443-string-compression) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nimish710/leetcode-solutions/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/Nimish710/leetcode-solutions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
