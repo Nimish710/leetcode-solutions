@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nimish710/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Nimish710/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Nimish710/leetcode-solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nimish710/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Bit Manipulation
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Nimish710/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Nimish710/leetcode-solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nimish710/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
