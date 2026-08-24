@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nimish710/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nimish710/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Nimish710/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0118-pascals-triangle](https://github.com/Nimish710/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Nimish710/leetcode-solutions/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Nimish710/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1051-height-checker](https://github.com/Nimish710/leetcode-solutions/tree/master/1051-height-checker) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Nimish710/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Nimish710/leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
