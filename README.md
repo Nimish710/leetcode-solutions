@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nimish710/leetcode-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Nimish710/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nimish710/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Nimish710/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Nimish710/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nimish710/leetcode-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Nimish710/leetcode-solutions/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/Nimish710/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1051-height-checker](https://github.com/Nimish710/leetcode-solutions/tree/master/1051-height-checker) |
 ## Counting Sort
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nimish710/leetcode-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Nimish710/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nimish710/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nimish710/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nimish710/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
