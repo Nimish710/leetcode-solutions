@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nimish710/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Nimish710/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Nimish710/leetcode-solutions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nimish710/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Nimish710/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Nimish710/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [1051-height-checker](https://github.com/Nimish710/leetcode-solutions/tree/master/1051-height-checker) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nimish710/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nimish710/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nimish710/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nimish710/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Nimish710/leetcode-solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nimish710/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Bit Manipulation
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nimish710/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/Nimish710/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
