@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Nimish710/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Nimish710/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nimish710/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Nimish710/leetcode-solutions/tree/master/0205-isomorphic-strings) |
