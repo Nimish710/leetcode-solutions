@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Nimish710/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [1051-height-checker](https://github.com/Nimish710/leetcode-solutions/tree/master/1051-height-checker) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nimish710/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nimish710/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Nimish710/leetcode-solutions/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/Nimish710/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nimish710/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
