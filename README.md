@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Nimish710/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Nimish710/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nimish710/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Nimish710/leetcode-solutions/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Nimish710/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Nimish710/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [1051-height-checker](https://github.com/Nimish710/leetcode-solutions/tree/master/1051-height-checker) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nimish710/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Nimish710/leetcode-solutions/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/Nimish710/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Nimish710/leetcode-solutions/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/Nimish710/leetcode-solutions/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
@@ -48,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nimish710/leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Nimish710/leetcode-solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nimish710/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Nimish710/leetcode-solutions/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Nimish710/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nimish710/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Nimish710/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nimish710/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Nimish710/leetcode-solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nimish710/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Nimish710/leetcode-solutions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Nimish710/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
