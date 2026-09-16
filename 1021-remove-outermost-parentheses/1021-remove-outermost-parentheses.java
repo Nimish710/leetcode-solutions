@@ -4,8 +4,7 @@ class Solution {
         int count =0;
         for(int i=0;i<s.length();i++){
             if(s.charAt(i)=='('){             
-                count++;
-                
+                count++;     
                 if(count>1){
                     sb.append(s.charAt(i));
                 }
